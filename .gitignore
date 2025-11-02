@@ -1,0 +1,39 @@
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Virtual environments ===
+env/
+venv/
+.venv/
+ctg_env/
+
+# === IDE files ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Backend exclusions ===
+backend/__pycache__/
+backend/catboost_info/
+backend/ctg_env/
+
+# === Frontend exclusions ===
+frontend/__pycache__/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Build artifacts ===
+dist/
+build/
+*.egg-info/
+backend/.env
+frontend/.env
