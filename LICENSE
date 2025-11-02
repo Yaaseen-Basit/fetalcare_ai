@@ -1,0 +1,26 @@
+Research Attribution License 
+
+Copyright (c) 2025 Yaaseen Basit
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+machine learning model, associated source code, or documentation (the “Work”), to use,
+copy, modify, merge, and distribute the Work for research or educational purposes,
+subject to the following conditions:
+
+Attribution — Any use, reproduction, or derivative work must include proper
+acknowledgment and citation of the original author and project:
+
+Yaaseen Basit, FetalCare AI – Early Detection of Fetal Distress Using Machine Learning, GitHub Project, 2025.
+
+Non-Commercial Use — The Work may not be used for commercial purposes
+without prior written consent from the author.
+
+Dataset Disclaimer — This project utilizes the publicly available UCI Cardiotocography (CTG) dataset.
+The dataset remains the property of its original authors and is used here solely for
+research and educational purposes.
+
+No Warranty — The Work is provided “AS IS”, without warranty of any kind,
+express or implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement.
+
+By using or redistributing this Work, you agree to abide by the terms of this license.
